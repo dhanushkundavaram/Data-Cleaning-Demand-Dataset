@@ -1,6 +1,3 @@
-# Data-Cleaning-Demand-Dataset
-This repository contains a data cleaning project on a demand and supply dataset using Python and Pandas.
-
 # Data Cleaning Project – Demand and Supply Management Dataset
 This project focuses on cleaning a raw dataset related to demand and supply management. It involves identifying and handling missing values, duplicates, inconsistent data formats, and ensuring data quality. The cleaned dataset is ready for further analysis, visualization, or modeling.
 
